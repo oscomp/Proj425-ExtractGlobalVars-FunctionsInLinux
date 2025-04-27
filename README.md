@@ -1,0 +1,1 @@
+# ExtractGlobalVars-FunctionsInLinux
