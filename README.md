@@ -2,7 +2,7 @@
 
 项目名称：{Linux内核全局变量及相关访问函数的自动分析与提取} 
 
-项目链接：{本赛题在github上的链接: https://github.com/gsZhongHuaXiaoZi/ExtractGlobalVars-FunctionsInLinux}
+项目链接：{本赛题在github上的链接: https://github.com/gsZhongHuaXiaoZi/ExtractGlobalVars-FunctionsInLinux }
 
 导师信息：{翟高寿，gszhai@bjtu.edu.cn }
 
