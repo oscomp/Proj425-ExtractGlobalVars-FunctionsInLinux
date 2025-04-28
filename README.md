@@ -1,16 +1,19 @@
-# ExtractGlobalVars-FunctionsInLinux
+### 项目名称
+Linux内核全局变量及相关访问函数的自动分析与提取
 
-项目名称：{Linux内核全局变量及相关访问函数的自动分析与提取} 
+### 项目链接
+https://github.com/gsZhongHuaXiaoZi/ExtractGlobalVars-FunctionsInLinux
 
-项目链接：{本赛题在github上的链接: https://github.com/gsZhongHuaXiaoZi/ExtractGlobalVars-FunctionsInLinux }
+### 导师信息
+翟高寿，gszhai@bjtu.edu.cn
 
-导师信息：{翟高寿，gszhai@bjtu.edu.cn }
+### 难度
+高
 
-难度：{高}
+### 分类
+测试工具集开发
 
-分类：{测试工具集开发}
-
-题目要求：{描述题目的功能需求、性能需求、应用场景、约束等。描述尽量条目化，列举的功能尽量从易到难，从简单到复杂，有一定的层次性。}
+### 题目要求
 
 针对Linux内核源码，研究有关数据与函数间访问关系（包括读、写访问方式的识别）的自动分析提取方法与技术，编程构建原型系统，运行输出全局变量及相应内核访问函数（含访问方式及其所在文件的路径名等信息）清单。要求基于Linux类操作系统及C语言开发Linux内核源码自动分析原型系统，并针对近三年内发布的Linux内核源码开展必要的测试验证。
 
@@ -26,12 +29,5 @@
 
 5、函数指针与源函数间的关系识别与提取
 
-特征：{ }
-
-预期目标：{ }
-
-License：{ }
-
-参考资料：{ }
-
-备注：{专门为本赛题搭建的QQ咨询群或微信群信息。本栏目可选}
+### 备注
+专门为本赛题搭建的QQ咨询群或微信群信息。
